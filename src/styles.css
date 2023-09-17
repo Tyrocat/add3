@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+.card {
+  padding: 15px 25px 15px 25px;
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+body {
+  margin: 0 auto;
+  background-color: #eff3f8;
+}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mahajani&display=swap');
